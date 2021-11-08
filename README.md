@@ -8,11 +8,11 @@ A programmer and drummer from New Jersey.
 - 🎓 I’m currently learning HTML, CSS, Javascript, [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
-        🔗 [linkedin](https://www.linkedin.com/in/steven-frazee/) 📧 [stevefrazee123@gmail.com](mailto:stevefrazee123@gmail.com)
+        🔗 [linkedin]() 📧 [stevefrazee123@gmail.com]()
         
 - ⚡ Fun fact: 👁 ▶ 🎵
 
-## 💻 Technologies
+## 💻 Languages & Technologies
 
 ![](https://img.shields.io/badge/c-%2312100E.svg?&style=for-the-badge&logo=c&logoColor=blue)
 ![](https://img.shields.io/badge/HTML-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue)
@@ -29,3 +29,8 @@ A programmer and drummer from New Jersey.
 <a href="https://github.com/steve3424">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=steve3424&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Steve's GitHub Stats" />
 </a>
+
+## 📣 Contact Me!
+
+[![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/steven-frazee/)
+[![](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=blue)](mailto:stevefrazee123@gmail.com)
