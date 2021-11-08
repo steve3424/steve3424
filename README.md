@@ -14,11 +14,11 @@ A programmer and drummer from New Jersey.
 
 ## 💻 Technologies
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/c-%2312100E.svg?&style=for-the-badge&logo=c&logoColor=blue)
+![](https://img.shields.io/badge/HTML-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue)
+![](https://img.shields.io/badge/CSS-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue)
+![](https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/CSharp-%2312100E.svg?&style=for-the-badge&logo=csharp&logoColor=blue)
 
 
 ## 📈 Github Stats
