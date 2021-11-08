@@ -12,7 +12,7 @@ A programmer and drummer from New Jersey.
         
 - ⚡ Fun fact: 👁 ▶ 🎵
 
-# 💻 Technologies
+## 💻 Technologies
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
@@ -21,7 +21,7 @@ A programmer and drummer from New Jersey.
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 
 
-# 📈 Github Stats
+## 📈 Github Stats
 
 <a href="https://github.com/steve3424">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve3424&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
