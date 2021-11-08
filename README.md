@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Steve. 😎
+
 A programmer and drummer from New Jersey.
 
 - 🐱‍👤 I’m currently working on Coding Dojo's Fullstack Bootcamp
