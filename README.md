@@ -27,6 +27,8 @@ A programmer and drummer from New Jersey.
 
 [Chandler Carruth](https://www.youtube.com/watch?v=fHNmRkzxHWs) on performance programming
 
+[Casey Muratori's](https://handmadehero.org/) HandMade Hero project
+
 ## 📈 Github Stats
 
 <a href="https://github.com/steve3424">
