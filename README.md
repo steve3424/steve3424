@@ -10,12 +10,12 @@ A programmer and drummer from New Jersey.
 
 📏 Learning [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
-## Favorite Projects
+## ♥ Favorite Projects
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=steve3424&repo=data_structure_visualizations&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/steve3424/data_structure_visualizations)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=steve3424&repo=project_collision_detections&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/steve3424/project_collision_detections)
 
-# Favorite Programming Talks
+## 🎤 Favorite Programming Talks
 
 [Mike Acton](https://www.youtube.com/watch?v=4B00hV3wmMY) on base skills for game engine programmers
 
