@@ -4,6 +4,17 @@ I'm Steve. 😎
 
 A programmer and drummer from New Jersey.
 
+[![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/steven-frazee/)
+[![](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=blue)](mailto:stevefrazee123@gmail.com)
+
+## 💻 Languages & Technologies
+
+![](https://img.shields.io/badge/c-%2312100E.svg?&style=for-the-badge&logo=c&logoColor=blue)
+![](https://img.shields.io/badge/HTML-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue)
+![](https://img.shields.io/badge/CSS-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue)
+![](https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/CSharp-%2312100E.svg?&style=for-the-badge&logo=csharp&logoColor=blue)
+
 ## 🛠 Current Projects
 
 🐱‍👤 [Coding Dojo's Fullstack Bootcamp](https://www.codingdojo.com/)
@@ -20,19 +31,6 @@ A programmer and drummer from New Jersey.
 [Mike Acton](https://www.youtube.com/watch?v=4B00hV3wmMY) on base skills for game engine programmers
 
 [Chandler Carruth](https://www.youtube.com/watch?v=fHNmRkzxHWs) on performance programming
-
-## 💻 Languages & Technologies
-
-![](https://img.shields.io/badge/c-%2312100E.svg?&style=for-the-badge&logo=c&logoColor=blue)
-![](https://img.shields.io/badge/HTML-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue)
-![](https://img.shields.io/badge/CSS-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue)
-![](https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/CSharp-%2312100E.svg?&style=for-the-badge&logo=csharp&logoColor=blue)
-
-## 📣 Contact Me!
-
-[![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/steven-frazee/)
-[![](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=blue)](mailto:stevefrazee123@gmail.com)
 
 ## 📈 Github Stats
 
