@@ -15,6 +15,12 @@ A programmer and drummer from New Jersey.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=steve3424&repo=data_structure_visualizations&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/steve3424/data_structure_visualizations)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=steve3424&repo=project_collision_detections&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/steve3424/project_collision_detections)
 
+# Favorite Programming Talks
+
+[Mike Acton](https://www.youtube.com/watch?v=4B00hV3wmMY) on base skills for game engine programmers
+
+[Chandler Carruth](https://www.youtube.com/watch?v=fHNmRkzxHWs) on performance programming
+
 ## 💻 Languages & Technologies
 
 ![](https://img.shields.io/badge/c-%2312100E.svg?&style=for-the-badge&logo=c&logoColor=blue)
