@@ -21,13 +21,15 @@ A programmer and drummer from New Jersey.
 
 📏 Learning [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
-## 🎤 Favorite Programming Talks
+## 🎤 Favorite Programming Talks & Resources
 
 [Mike Acton](https://www.youtube.com/watch?v=4B00hV3wmMY) on base skills for game engine programmers
 
 [Chandler Carruth](https://www.youtube.com/watch?v=fHNmRkzxHWs) on performance programming
 
 [Casey Muratori's](https://handmadehero.org/) HandMade Hero project
+
+[Udacity / Georgia Tech](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) FREE refresher course for Advanced OS
 
 ## 📈 Github Stats
 
