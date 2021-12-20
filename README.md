@@ -21,7 +21,7 @@ A programmer and drummer from New Jersey.
 
 🐱‍👤 [Coding Dojo's Fullstack Bootcamp](https://www.codingdojo.com/)
 
-📏 Learning [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+📏 Learning [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
 ## 🎤 Favorite Programming Talks & Resources
 
