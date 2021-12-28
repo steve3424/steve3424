@@ -21,8 +21,6 @@ A programmer and drummer from New Jersey.
 
 🐱‍👤 [Coding Dojo's Fullstack Bootcamp](https://www.codingdojo.com/)
 
-📏 Learning [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
-
 ## 🎤 Favorite Programming Talks & Resources
 
 [Mike Acton](https://www.youtube.com/watch?v=4B00hV3wmMY) on base skills for game engine programmers
