@@ -1,4 +1,4 @@
-## Steve 😎
+# 😎
 
 [![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/steven-frazee/)
 [![](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=blue)](mailto:stevefrazee123@gmail.com)
@@ -16,6 +16,7 @@
 
 ## 🛠 Current Projects
 
+random stuff
 
 ## 🎤 Favorite Programming Talks & Resources
 
