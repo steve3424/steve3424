@@ -6,13 +6,11 @@
 
 ## 🎤 Favorite Programming Talks & Resources
 
-[Mike Acton](https://www.youtube.com/watch?v=4B00hV3wmMY) on base skills for game engine programmers
+[Foundational programming skills](https://www.youtube.com/watch?v=4B00hV3wmMY) Mike Acton
 
-[Chandler Carruth](https://www.youtube.com/watch?v=fHNmRkzxHWs) on performance programming
+[Handmade Hero](https://handmadehero.org/) Casey Muratori
 
-[Casey Muratori's](https://handmadehero.org/) HandMade Hero project
-
-[Udacity / Georgia Tech](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) FREE refresher course for Advanced OS
+[Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) Sergey Slotin
 
 ## 📈 Github Stats
 
