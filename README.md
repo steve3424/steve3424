@@ -3,20 +3,6 @@
 [![](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/steven-frazee/)
 [![](https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=blue)](mailto:stevefrazee123@gmail.com)
 
-## 💻 Languages & Technologies
-
-![](https://img.shields.io/badge/c-%2312100E.svg?&style=for-the-badge&logo=c&logoColor=blue)
-![](https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/HTML-%2312100E.svg?&style=for-the-badge&logo=html5&logoColor=blue)
-![](https://img.shields.io/badge/CSS-%2312100E.svg?&style=for-the-badge&logo=css3&logoColor=blue)
-![](https://img.shields.io/badge/Javascript-%2312100E.svg?&style=for-the-badge&logo=javascript&logoColor=blue)
-![](https://img.shields.io/badge/MYSQL-%2312100E.svg?&style=for-the-badge&logo=mysql&logoColor=blue)
-![](https://img.shields.io/badge/CSharp-%2312100E.svg?&style=for-the-badge&logo=csharp&logoColor=blue)
-![](https://img.shields.io/badge/Flask-%2312100E.svg?&style=for-the-badge&logo=flask&logoColor=blue)
-
-## 🛠 Current Projects
-
-random stuff
 
 ## 🎤 Favorite Programming Talks & Resources
 
