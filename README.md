@@ -6,11 +6,11 @@
 
 ## 🎤 Favorite Programming Talks & Resources
 
-[Foundational programming skills](https://www.youtube.com/watch?v=4B00hV3wmMY) Mike Acton
+[Foundational programming skills - Mike Acton](https://www.youtube.com/watch?v=4B00hV3wmMY)
 
-[Handmade Hero](https://handmadehero.org/) Casey Muratori
+[Handmade Hero - Casey Muratori](https://handmadehero.org/)
 
-[Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) Sergey Slotin
+[Algorithms for Modern Hardware - Sergey Slotin](https://en.algorithmica.org/hpc/)
 
 ## 📈 Github Stats
 
