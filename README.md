@@ -10,8 +10,6 @@
 
 [Handmade Hero - Casey Muratori](https://handmadehero.org/)
 
-[Algorithms for Modern Hardware - Sergey Slotin](https://en.algorithmica.org/hpc/)
-
 ## 📈 Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
